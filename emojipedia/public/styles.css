@@ -2,8 +2,8 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   line-height: 1.666;
-  background: #c0d2d4;
-  color: #555;
+  background: #fcbb6d;
+  color: #d8737f;
 }
 
 h1 {
@@ -11,13 +11,13 @@ h1 {
   font-size: 500%;
   text-align: center;
   margin-top: 4rem;
-  color: #fff;
+  color: #685d79;
   line-height: 1.2;
 }
 
 h1 span {
   padding: 5px 15px;
-  background: #2ec2b0;
+  background: #d8737f;
 }
 
 .dictionary {
@@ -35,7 +35,7 @@ h1 span {
   padding: 2rem;
   border-radius: 3px;
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
+  background-color: #685d79;
   transition: all 100ms ease-in-out;
 }
 
@@ -44,7 +44,7 @@ h1 span {
 }
 
 dt {
-  color: #2ec2b0;
+  color: #fcbb6d;
   line-height: 1;
 }
 
